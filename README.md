@@ -7,6 +7,8 @@ The deadline for this first phase of the projects is Sunday, April 5, 2024, (17 
 
 The deadline for this second phase of the projects is Sunday, April 27, 2024, (8 Ordibehesht 1403) at 11:59 PM Tehran time and will not be extended in any way.
 
-The deadline for this **third phase** of the projects is **Monday, May 13, 2024, (24 Ordibehesht 1403) at 11:59 PM Tehran time** and will not be extended in any way.
+The deadline for this third phase of the projects is Monday, May 13, 2024, (24 Ordibehesht 1403) at 11:59 PM Tehran time and will not be extended in any way.
+
+The deadline for this **fourth phase** of the projects is **Friday, May 24, 2024, (4 Khordad 1403) at 11:59 PM Tehran time** and will not be extended in any way.
 
 As soon as the projects are completed, please send just the Jupyter file of your project, which includes the code + detailed report of your project, to the address j.amanirad@gmail.com.
